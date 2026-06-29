@@ -30,3 +30,13 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: Kelvinlima91
+          token: ${{ secrets.METRICS_TOKEN }}
+          theme: "dark"
+          ring_color: "e53e3e"
+          fire_color: "e53e3e"
+          currStreakLabel: "e53e3e"
+          path: streak.svg
