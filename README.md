@@ -15,6 +15,14 @@ Final-year student in **Systems and Computer Engineering** at Universidade Jean 
 
 ---
 
+## Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kelvinlima91/Kelvinlima91/master/metrics.svg" alt="metrics" />
+</p>
+
+---
+
 ## Projects
 
 Working on a few products for the Cape Verdean market. Links coming once they ship.
