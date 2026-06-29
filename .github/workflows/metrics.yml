@@ -30,5 +30,3 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          plugin_streak: yes
