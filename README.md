@@ -1,4 +1,4 @@
-<img src="https://github.com/Kelvinlima91/Kelvinlima91/blob/master/banner.png?raw=true" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Kelvinlima91/Kelvinlima91/master/banner.png" alt="banner" width="100%" />
 
 # Kelvin Lima
 
@@ -11,15 +11,6 @@ Final-year student in **Systems and Computer Engineering** at Universidade Jean 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,js,alpinejs,tailwind,vite,git" />
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kelvinlima91&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinlima91&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
