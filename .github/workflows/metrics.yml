@@ -18,15 +18,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Kelvinlima91
           template: classic
-          base: header
+          base: ""
           config_timezone: Atlantic/Cape_Verde
-          config_padding: 10
+          config_padding: 6, 10
           filename: metrics.svg
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
 
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
