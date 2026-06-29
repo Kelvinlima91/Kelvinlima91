@@ -18,6 +18,10 @@ Final-year student in **Systems and Computer Engineering** at Universidade Jean 
 ## Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Kelvinlima91/Kelvinlima91/master/streak.svg" alt="streak stats" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Kelvinlima91/Kelvinlima91/master/metrics.svg" alt="metrics" />
 </p>
 
